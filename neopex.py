@@ -156,7 +156,7 @@ def output_stats(response):
 @click.option('--new', is_flag=True, default=False, required=False, help='Start new LP tracker')
 @click.option('--user', default="", required=False, help='User to check against')
 @click.option('--platform', default="", required=False, help='Platform to check against')
-@click.option('--root', default="", required=False, help='Platform to check against')
+@click.option('--root', default="", required=False, help='The path to the folder that should contain the config files')
 @click.option('--api_mins', default=1, required=False, help='How many mins between API calls')
 @click.option('--api_key', default="", required=False, help='API key')
 def main(new, user, platform, root, api_mins, api_key):
