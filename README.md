@@ -9,7 +9,7 @@
 ### neopex_config.yaml
 
 1. Open `dist/neopex_config.yaml`
-2. At a minimum fill out the values for `api_key`, `user`, and `platform`. It is also recommended to fill out `--root` with a folder path that you want the files saved to.
+2. At a minimum fill out the values for `api_key`, `user`, and `platform`. It is also recommended to fill out `root` with a folder path that you want the files saved to.
 3. Double click `dist/neopex.exe` to run. You may have to approve it to run as Windows sometimes wants to consider it a threat.
 4. Leave the exe running as long as you need. `CTRL+C` or close out of the terminal when done.
 
