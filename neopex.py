@@ -10,8 +10,6 @@ import yaml
 import time
 import click
 
-# simple GUI option: https://docs.python.org/3/library/tkinter.html
-
 
 req = requests.Session()
 

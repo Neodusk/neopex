@@ -1,6 +1,6 @@
 api_key: ""
 root: ""
-user: ""
+user: "Neodusk"
 platform: "PC"
 # new: maintain the old previous score to check against. This should be set to True the first time ran
 new: True 
