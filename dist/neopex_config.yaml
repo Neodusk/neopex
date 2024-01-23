@@ -5,15 +5,6 @@ platform: "PC"
 # new: maintain the old previous score to check against. This should be set to True the first time ran
 new: True 
 
-# 1. Create an API key by going to https://portal.apexlegendsapi.com/ (use non-commercial and rank tracking as desc)
-# 2. Update api_key to this value or set api_key in system env variables
-# 3. Create a folder where configs should be stored. These files will be imported into OBS (if no folder is selected files will save to location exe is located)
-# 4. Update the root to this path ^
-# 5. Put in your user and platform to monitor
-# 6. Run apex.exe (it is important to keep this config in the same dir as the exe)
-# 7. Add these files into OBS as text and select read from file
-# 8. The read from file path should be the same as root, and select the individual files to monitor on stream
-
 
 # Example config:
 
